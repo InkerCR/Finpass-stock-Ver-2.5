@@ -1,0 +1,6 @@
+{
+  "name": "AIF Stock FinPass",
+  "description": "AIF Stock FinPass Pro - Intelligent warehouse and inventory database management system featuring state-backed local persistence, transaction in-out logs, multi-warehouse support, multi-role user security, and server-side Gemini AI stock valuation, reports, and alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
